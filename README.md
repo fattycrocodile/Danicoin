@@ -1,7 +1,5 @@
 # Danicoin
 
-The repository for the danicoin tutorial: https://lhartikk.github.io/
-
 ```
 npm install
 npm start
