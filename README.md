@@ -1,6 +1,6 @@
-# Naivecoin
+# Danicoin
 
-The repository for the naivecoin tutorial: https://lhartikk.github.io/
+The repository for the danicoin tutorial: https://lhartikk.github.io/
 
 ```
 npm install
